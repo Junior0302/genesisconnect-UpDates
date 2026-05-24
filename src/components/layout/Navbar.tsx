@@ -27,7 +27,7 @@ import Logo from "@/components/ui/Logo";
 
     const switchLocale = (newLocale: string) => {
       const path = pathname === '/' ? '' : pathname;
-      window.location.href = `/${newLocale}${path}`;
+      window.location.assign(`/${newLocale}${path}`);
     };
   
     // Close mobile menu when route changes

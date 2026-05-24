@@ -17,6 +17,8 @@ import {getMessages, getTranslations} from 'next-intl/server';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 
+type AppLocale = (typeof routing.locales)[number];
+
 /* const Scene = dynamic(() => import("@/components/three/Scene"), {
   ssr: false,
 }); */
@@ -90,7 +92,7 @@ export default async function LocaleLayout({
 }) {
   const {locale} = await params;
 
-  if (!routing.locales.includes(locale as any)) {
+  if (!routing.locales.includes(locale as AppLocale)) {
     notFound();
   }
 
