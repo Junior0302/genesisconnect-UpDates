@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useSoundContext } from "@/context/SoundContext";
+import { useTranslations } from "next-intl";
 
 // Register ScrollTrigger
 if (typeof window !== "undefined") {
@@ -115,7 +116,7 @@ export default function ContactPage() {
                             <a 
                                 href="mailto:hello@genesisconnectstudio.com" 
                                 className="text-3xl md:text-5xl font-serif text-[#FAF9F6] hover:text-[#D4AF37] transition-colors duration-300 break-words"
-                                onMouseEnter={() => playSound('hover')}
+                                onMouseEnter={() => playSound('focus_grain')}
                             >
                                 hello@<br className="hidden md:block"/>genesisconnectstudio.com
                             </a>

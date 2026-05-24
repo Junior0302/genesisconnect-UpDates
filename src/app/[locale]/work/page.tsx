@@ -24,8 +24,6 @@ export default function WorkPage() {
       category: t('Projects.Project1.category'),
       industry: t('Projects.Project1.industry'),
       desc: t('Projects.Project1.desc'),
-      imageSrc: "/images/Image_rideau_effect_ink.png",
-      imagePosition: "50% 35%",
       color: "bg-[#3A2C25]"
     },
     {
@@ -34,8 +32,6 @@ export default function WorkPage() {
       category: t('Projects.Project2.category'),
       industry: t('Projects.Project2.industry'),
       desc: t('Projects.Project2.desc'),
-      imageSrc: "/images/Image_rideau_effect_ink.png",
-      imagePosition: "50% 55%",
       color: "bg-[#253A30]"
     },
     {
@@ -44,8 +40,6 @@ export default function WorkPage() {
       category: t('Projects.Project3.category'),
       industry: t('Projects.Project3.industry'),
       desc: t('Projects.Project3.desc'),
-      imageSrc: "/images/Image_rideau_effect_ink.png",
-      imagePosition: "50% 25%",
       color: "bg-[#252A3A]"
     },
     {
@@ -55,7 +49,6 @@ export default function WorkPage() {
       industry: t('Projects.Project4.industry'),
       desc: t('Projects.Project4.desc'),
       imageSrc: "/images/Image_rideau_effect_ink.png",
-      imagePosition: "50% 45%",
       color: "bg-[#3A2525]"
     }
   ];
@@ -158,15 +151,16 @@ export default function WorkPage() {
                           className={`absolute inset-0 ${project.color} opacity-30 group-hover:opacity-40 transition-all duration-700 ease-out transform group-hover:scale-105`}
                         ></div>
 
-                        <Image
-                          src={project.imageSrc}
-                          alt={project.title}
-                          fill
-                          priority={project.id === "01"}
-                          sizes="(min-width: 768px) 66vw, 100vw"
-                          style={{ objectPosition: project.imagePosition }}
-                          className="object-cover opacity-0 group-hover:opacity-35 transition-opacity duration-700 ease-out grayscale contrast-125 mix-blend-overlay"
-                        />
+                        {project.imageSrc ? (
+                          <Image
+                            src={project.imageSrc}
+                            alt={project.title}
+                            fill
+                            priority={project.id === "04"}
+                            sizes="(min-width: 768px) 66vw, 100vw"
+                            className="object-cover opacity-85 group-hover:opacity-95 transition-all duration-700 ease-out scale-100 group-hover:scale-105"
+                          />
+                        ) : null}
                         
                         {/* Overlay Content (Optional) */}
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500">

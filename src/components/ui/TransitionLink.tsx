@@ -1,11 +1,12 @@
 "use client";
 
 import { Link } from "@/i18n/routing";
-import { LinkProps } from "next/link";
-import { ReactNode } from "react";
+import { ReactNode, ComponentProps } from "react";
 import { useTransition } from "@/context/TransitionContext";
 
-interface TransitionLinkProps extends LinkProps {
+type IntlLinkProps = ComponentProps<typeof Link>;
+
+interface TransitionLinkProps extends Omit<IntlLinkProps, "children" | "onClick"> {
   children: ReactNode;
   className?: string;
   onClick?: (e: React.MouseEvent<HTMLAnchorElement>) => void;

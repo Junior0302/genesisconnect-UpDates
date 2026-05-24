@@ -5,13 +5,12 @@ import { useTranslations } from "next-intl";
 // import Scene from "@/components/three/Scene";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { Draggable } from "gsap/Draggable";
 import { useSoundContext } from "@/context/SoundContext";
 import TransitionLink from "@/components/ui/TransitionLink";
 
 // Register ScrollTrigger
 if (typeof window !== "undefined") {
-  gsap.registerPlugin(ScrollTrigger, Draggable);
+  gsap.registerPlugin(ScrollTrigger);
 }
 
 export default function Home() {
@@ -91,22 +90,6 @@ export default function Home() {
             scrub: 1, // Smooth scrubbing (1s delay) to make it feel heavy/premium
             invalidateOnRefresh: true, // Recalculate on resize
           }
-        });
-
-        // 4.1 DRAGGABLE SUPPORT (Drag to Scroll)
-        // Maps horizontal drag to vertical page scroll
-        const proxy = document.createElement("div");
-        Draggable.create(proxy, {
-          trigger: gallerySection,
-          type: "x",
-          onDrag: function() {
-            // Drag Left (negative delta) -> Scroll Down (positive scroll)
-            // Drag Right (positive delta) -> Scroll Up (negative scroll)
-            const sensitivity = 2.5;
-            window.scrollBy(0, -this.deltaX * sensitivity);
-          },
-          cursor: "grab",
-          activeCursor: "grabbing"
         });
 
         // Add Skew Effect based on velocity

@@ -8,15 +8,17 @@ import { MODEL_CONFIG } from "./config/modelSettings";
 import { useModelAnimation } from "./hooks/useModelAnimation";
 import { useModelScroll } from "./hooks/useModelScroll";
 
-import { GroupProps } from "@react-three/fiber";
+import { ThreeElements } from "@react-three/fiber";
 
-export default function Model(props: GroupProps) {
+export default function Model(props: ThreeElements["group"]) {
   const fbx = useFBX("/model/Standing.fbx");
   const ref = useRef<THREE.Group>(null);
   
   // Responsive State
   const [scale, setScale] = useState<number>(MODEL_CONFIG.scale);
-  const [position, setPosition] = useState<[number, number, number] | number[]>(MODEL_CONFIG.position);
+  const [position, setPosition] = useState<[number, number, number]>(() => [
+    ...MODEL_CONFIG.position
+  ] as [number, number, number]);
 
   // 1. Setup Responsive Scale & Material
   useEffect(() => {
@@ -25,8 +27,8 @@ export default function Model(props: GroupProps) {
       
       // Update Scale & Position
       setScale(isMobile ? MODEL_CONFIG.scaleMobile : MODEL_CONFIG.scale);
-      // @ts-expect-error - Tuple vs Array type compatibility
-      setPosition(isMobile ? MODEL_CONFIG.positionMobile : MODEL_CONFIG.position);
+      const nextPosition = isMobile ? MODEL_CONFIG.positionMobile : MODEL_CONFIG.position;
+      setPosition([...nextPosition] as [number, number, number]);
       
       // Update Material (Mobile needs lighter calculation)
       const material = createPremiumMaterial(isMobile);

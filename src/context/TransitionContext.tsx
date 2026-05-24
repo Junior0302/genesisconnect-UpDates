@@ -61,14 +61,16 @@ export function TransitionProvider({ children }: { children: ReactNode }) {
     }
     */
 
-    // Force scroll to top on reload/mount
     window.scrollTo(0, 0);
-    document.body.style.overflow = 'hidden'; // Bloque le scroll pendant l'intro
-    
-    // Si on n'est pas sur la home, on redirige (optionnel mais propre)
+
     if (pathname !== "/") {
-        router.replace("/");
+        document.body.style.overflow = '';
+        setAssetsLoaded(true);
+        setCurrentState('EXPERIENCE_RUNNING');
+        return;
     }
+
+    document.body.style.overflow = 'hidden';
 
     // Strict Text Requirement
     // setLoaderText("Preparing the experience.");
