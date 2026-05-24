@@ -1,0 +1,329 @@
+{
+  "HomePage": {
+    "title": "首页",
+    "description": "欢迎来到 Genesis Connect",
+    "Hero": {
+      "title": "Genesis\nConnect",
+      "subtitle": "从创意到影响力。",
+      "tagline": "为高端品牌打造沉浸式数字体验。",
+      "description": "我们精心制作高端网站、沉浸式3D环境和精致的数字平台，旨在通过清晰度、情感和影响力提升品牌。",
+      "cta": "启动项目"
+    },
+    "Purpose": {
+      "label": "目标驱动的数字体验",
+      "title": "在一个充斥着噪音和重复的数字世界中，我们相信清晰。",
+      "span1": "相信克制。",
+      "span2": "相信有意的设计。",
+      "text": "在 Genesis Connect，我们创造的数字体验让品牌不仅仅被看到——它们被感知、被记住、被理解。"
+    },
+    "Philosophy": {
+      "label": "少即是多。",
+      "title": "奢华不在于过剩。而在于精准、平衡和意图。",
+      "text": "我们设计时保持克制，专注于真正重要的事情——清晰、情感和影响力。"
+    },
+    "WhatWeCraft": {
+      "title": "我们的工艺",
+      "text1": "我们设计高端网站、沉浸式3D环境和以性能为导向的数字平台，为长久而建。",
+      "text2": "我们的工作融合了设计、技术和叙事，创造出保持相关性、影响力和永恒的数字存在。"
+    },
+    "Immersion": {
+      "label": "沉浸作为一种语言",
+      "title": "沉浸不是一种效果。",
+      "span": "它是一种语言。",
+      "text": "通过空间、深度、运动和沉默，我们将界面转化为沉浸式体验，调动感官并精确引导注意力。"
+    },
+    "Expertise": {
+      "label": "核心专长",
+      "items": {
+        "websites": {
+          "title": "沉浸式网站",
+          "desc": "打造为沉浸式数字体验的高端网站，旨在吸引和提升高端品牌。"
+        },
+        "platforms": {
+          "title": "Web & App 平台",
+          "desc": "精致的Web和应用程序平台，专为可用性、性能和无缝交互而构建。"
+        },
+        "performance": {
+          "title": "数字性能 & SEO",
+          "desc": "专注于结构、可见性和长期数字性能的战略优化——从不激进，始终有意。"
+        }
+      }
+    },
+    "Clients": {
+      "title": "我们的合作伙伴",
+      "text1": "我们与寻求卓越的高端品牌、创意总监、创始人和机构合作。",
+      "text2": "如果您重视优雅、工艺和长远愿景——我们志同道合。"
+    },
+    "Global": {
+      "label": "总部位于法国。服务全球。",
+      "text1": "扎根于法国设计文化，Genesis Connect 面向国际。",
+      "text2": "我们的视野是全球性的。我们的标准毫不妥协。"
+    },
+    "Complementary": {
+      "title": "补充工艺",
+      "items": {
+        "brand": "品牌识别",
+        "video": "视频 & 动态设计",
+        "assets": "视觉资产",
+        "redesign": "数字重塑"
+      }
+    },
+    "Gallery": {
+      "intro": "拖动以探索\n(向下滚动)",
+      "section_title": "精选作品",
+      "main_title": "塑造数字遗产。",
+      "subtitle": "一次一个像素。",
+      "description": "我们与富有远见的品牌合作，创造出超越预期并经受住时间考验的沉浸式数字体验。",
+      "projects": {
+        "p1": { "name": "Maison Velour", "type": "电子商务体验" },
+        "p2": { "name": "Archi.Studio", "type": "建筑作品集" },
+        "p3": { "name": "Lumina Tech", "type": "企业数字平台" },
+        "p4": { "name": "Vogue Paris", "type": "数字营销体验" }
+      }
+    },
+    "CTA": {
+      "label": "让我们创造非凡",
+      "title": "不要等待未来。创造它。",
+      "text": "每个项目都始于一次对话。\n让我们将您的想法转化为沉浸式数字体验。",
+      "button": "启动项目"
+    }
+  },
+  "ContactPage": {
+    "Hero": {
+      "title": "启动\n项目",
+      "subtitle": "告诉我们您的愿景。\n我们要清晰、精确和有影响力地打造沉浸式数字体验。",
+      "description": "每个项目都始于对话。\n让我们一起探索如何塑造您的数字形象。"
+    },
+    "Collaboration": {
+      "title": "合作",
+      "heading": "深思熟虑的方法",
+      "text1": "Genesis Connect 基于项目工作，非常注重质量、工艺和长期价值。我们每年只合作有限的项目，以确保专注和卓越。",
+      "text2": "每次合作都根据项目的范围和雄心量身定制，确保合作伙伴关系与结果一样有意义。"
+    },
+    "DirectContact": {
+      "title": "直接联系"
+    },
+    "Location": {
+      "title": "位置",
+      "address": "29 rue Tronchet,<br/>75008 Paris",
+      "description": "总部位于法国。与有远见的品牌和创始人一起在全球范围内工作。"
+    },
+    "Closing": {
+      "title": "结语",
+      "text": "我们重视深思熟虑的项目、清晰的雄心和长期的愿景。",
+      "subtext": "如果您相信工艺、优雅和沉浸式数字体验 —— 我们是一致的。"
+    }
+  },
+  "ExpertisePage": {
+    "Hero": {
+      "title": "我们的\n愿景",
+      "subtitle": "我们相信数字体验不仅仅是存在。\n它们应该产生共鸣、持久并留下深刻印象。",
+      "description": "在 Genesis Connect，我们的愿景植根于清晰、克制和意图。我们设计美学与性能共存的数字环境 —— 技术服务于情感，影响力建立在目的之上。"
+    },
+    "Intro": {
+      "title": "我们的专业知识",
+      "heading": "以精确和影响力打造高端数字体验。",
+      "text": "Genesis Connect 专注于为寻求独特、深度和长期相关性的高端品牌创建精致的数字平台。"
+    },
+    "CoreExpertise": {
+      "title": "核心专业知识",
+      "Item1": {
+        "title": "沉浸式网站与数字平台",
+        "subtitle": "设计为沉浸式体验的高端网站。",
+        "description": "我们结合精致的设计、动态和 3D 环境，创造能够吸引、引导并提升品牌认知的数字空间。"
+      },
+      "Item2": {
+        "title": "Web与App体验",
+        "subtitle": "优雅直观的 Web 和应用程序界面。",
+        "description": "专为可用性、可扩展性和性能而构建。每种体验都旨在在所有设备上感觉无缝、流畅和有意图。"
+      },
+      "Item3": {
+        "title": "数字性能与 SEO",
+        "subtitle": "性能不是事后才想到的 —— 它是设计的一部分。",
+        "description": "我们将 SEO 和优化视为一项长期战略，确保结构、可见性和效率，而不牺牲优雅或用户体验。"
+      }
+    },
+    "StrategicEvolution": {
+      "title": "战略演变",
+      "heading": "品牌重塑与数字重新设计",
+      "subtitle": "我们帮助品牌以清晰和连贯的方式发展其数字形象。",
+      "description": "从细微的改进到彻底的重新设计，我们将现有平台转变为提升的数字体验，同时保留品牌精髓。"
+    },
+    "ComplementaryCraft": {
+      "title": "补充工艺",
+      "subtitle": "（支持体验，从不主导）",
+      "Items": {
+        "VisualAssets": {
+          "title": "视觉资产",
+          "description": "精心制作的数字资产，旨在与沉浸式平台和品牌宇宙保持一致。"
+        },
+        "BrandIdentity": {
+          "title": "品牌标识",
+          "description": "以克制和精准创造的标志和视觉标识，确保数字和物理接触点之间的一致性。"
+        },
+        "VideoMotion": {
+          "title": "视频与动态设计",
+          "description": "用于增强数字体验中的叙事、节奏和氛围的电影级视频编辑和动态设计。"
+        }
+      }
+    }
+  },
+  "StudioPage": {
+    "Hero": {
+      "title": "从想法<br/>到影响。",
+      "subtitle": "Genesis Connect 是一个沉浸式数字工作室，为高端和奢侈品牌打造高端数字体验。",
+      "description": "我们设计精致的网站、沉浸式 3D 环境和性能驱动的数字平台，优雅、技术和意图在此融合，创造持久的影响。"
+    },
+    "Purpose": {
+      "title": "以目标为驱动的工作室",
+      "heading": "在短暂趋势和视觉噪音的世界中，我们相信清晰。",
+      "sub1": "相信克制。",
+      "sub2": "相信旨在持久的体验。",
+      "text": "每个项目都始于一个单一的想法 —— 并演变成一个以精确、深度和目的构建的有意义的数字形象。"
+    },
+    "GlobalLocation": {
+      "heading": "总部位于法国。<br/>全球工作。",
+      "text": "植根于法国设计文化，Genesis Connect 与寻求数字表达独特性的奢侈品牌、有远见的创始人、创意工作室和机构在国际上合作。",
+      "sub1": "我们的方法是全球性的。",
+      "sub2": "我们的标准毫不妥协。"
+    },
+    "Philosophy": {
+      "title": "我们的理念",
+      "Item1": {
+        "title": "精确",
+        "text": "每个像素都经过精心放置。<br/>我们以严谨、平衡和对细节的关注进行设计，确保每个元素都有其用途。"
+      },
+      "Item2": {
+        "title": "沉浸",
+        "text": "我们通过故事讲述、动态和氛围创造沉浸式数字体验 —— 让品牌被感知，而不仅仅是被看见。"
+      },
+      "Item3": {
+        "title": "性能",
+        "text": "真正的美必须表现完美。<br/>我们构建快速、结构化、优化并专为长期数字性能设计的平台。"
+      }
+    },
+    "Commitment": {
+      "title": "我们的承诺",
+      "text": "Genesis Connect 结合卓越的设计、先进的技术和战略思维，打造经得起时间考验的数字体验。",
+      "statement1": "我们不追随趋势。",
+      "statement2": "我们建立数字遗产。"
+    }
+  },
+  "WorkPage": {
+    "Hero": {
+      "title": "精选<br/>作品",
+      "subtitle": "一系列以精确、情感和克制打造的沉浸式数字体验。",
+      "description": "从高端电子商务到建筑作品集，我们与品牌合作，创造经得起时间考验的数字遗产。"
+    },
+    "Projects": {
+      "Project1": {
+        "title": "项目一",
+        "category": "沉浸式网站体验",
+        "industry": "奢侈数字平台",
+        "desc": "通过深度、动态和克制提升品牌形象的精致数字体验。"
+      },
+      "Project2": {
+        "title": "项目二",
+        "category": "Web与App体验",
+        "industry": "建筑作品集",
+        "desc": "一个专注于性能的极简平台，旨在清晰优雅地展示内容。"
+      },
+      "Project3": {
+        "title": "项目三",
+        "category": "企业数字平台",
+        "industry": "技术与创新",
+        "desc": "专为可用性、性能和规模设计的结构化沉浸式数字环境。"
+      },
+      "Project4": {
+        "title": "项目四",
+        "category": "数字营销活动体验",
+        "industry": "时尚与奢侈品",
+        "desc": "结合故事讲述、动态和视觉精确度的电影般数字体验。"
+      },
+      "viewProject": "查看项目",
+      "year": "年份：2024",
+      "scope": "范围：全栈"
+    },
+    "Approach": {
+      "title": "我们的工作方法",
+      "statement1": "我们不创造数量。",
+      "statement2": "我们策划体验。",
+      "text": "每个项目都是有意图地开发的 —— 从概念到执行 —— 确保连贯性、性能和持久的相关性。"
+    }
+  },
+  "LegalPage": {
+    "Hero": {
+      "title": "法律\n信息",
+      "description": "Genesis Connect 网站的法律声明和使用条款。"
+    },
+    "Articles": {
+      "Publisher": {
+        "title": "01. 网站发布者",
+        "text1": "<strong>Genesis Connect</strong> 网站发布者为：",
+        "text2": "<strong>Genesis Connect Studio</strong><br/>资本金 1,000 欧元的简易股份公司 (SAS)<br/>总部：29 rue Tronchet, 75008 Paris<br/>巴黎 RCS 注册号 123 456 789<br/>欧盟增值税号：FR 12 123456789",
+        "text3": "<strong>出版总监：</strong> Niaty Junior Tamba<br/><strong>联系方式：</strong> hello@genesisconnectstudio.com<br/><strong>电话：</strong> +33 1 23 45 67 89"
+      },
+      "Hosting": {
+        "title": "02. 托管",
+        "text1": "网站托管方：",
+        "text2": "<strong>Vercel Inc.</strong><br/>340 S Lemon Ave #4133<br/>Walnut, CA 91789<br/>USA<br/><link>https://vercel.com</link>"
+      },
+      "IntellectualProperty": {
+        "title": "03. 知识产权",
+        "text1": "本网站的所有内容均受法国和国际版权及知识产权法律的管辖。保留所有复制权，包括可下载文件以及图标和摄影作品。",
+        "text2": "未经作者或其受让人或继承人同意，进行全部或部分陈述或复制均属违法（知识产权法典 L 122-4 条）。"
+      },
+      "PersonalData": {
+        "title": "04. 个人数据",
+        "text1": "根据 1978 年 1 月 6 日修订的《数据保护法》和《通用数据保护条例》(GDPR)，您有权访问、更正、删除和反对有关您的个人数据。",
+        "text2": "要行使此权利，您可以通过电子邮件联系我们：<link>hello@genesisconnectstudio.com</link>",
+        "text3": "网站用户的任何个人信息均不会在用户不知情的情况下发布、交换、转让、让与或出售给第三方。"
+      },
+      "Cookies": {
+        "title": "05. Cookies",
+        "text1": "浏览本网站可能会导致 cookie 安装在用户的计算机上。Cookie 是一个小文件，它不允许识别用户，但记录与计算机在网站上的导航相关的信息。",
+        "text2": "您可以选择通过配置网络浏览器来拒绝 cookie。"
+      }
+    }
+  },
+  "TerrainPage": {
+    "title": "Genesis 地形",
+    "biomes": {
+      "dunes": "生物群落：沙丘",
+      "rock": "生物群落：岩石"
+    },
+    "completion": "沉浸完成"
+  },
+  "Navigation": {
+    "home": "首页",
+    "work": "项目",
+    "studio": "工作室",
+    "expertise": "专业知识",
+    "contact": "联系我们"
+  },
+  "Footer": {
+    "location": "位置",
+    "based_in": "总部位于法国。服务全球。",
+    "contact": "联系",
+    "connect": "连接",
+    "legal": "法律信息",
+    "copyright": "© 2024 Genesis Connect. 保留所有权利。"
+  },
+  "Transition": {
+    "loading": "准备体验中。",
+    "intro": "从创意到影响。",
+    "enter": "进入",
+    "narrative": {
+      "home_about": "发现我们的工作室",
+      "home_work": "探索我们的作品",
+      "home_vision": "了解我们的愿景",
+      "home_contact": "取得联系",
+      "back_home": "返回首页",
+      "default": "加载中..."
+    }
+  },
+  "Metadata": {
+    "title": "Genesis Connect | 从创意到影响",
+    "description": "Genesis Connect 是一家专注于沉浸式网络体验、高端网站和数字性能的顶级数字工作室。"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "HomePage": {
+    "title": "Home",
+    "description": "Welcome to Genesis Connect",
+    "Hero": {
+      "title": "Genesis\nConnect",
+      "subtitle": "From idea to impact.",
+      "tagline": "Immersive digital experiences for premium brands.",
+      "description": "We craft high-end websites, immersive 3D environments, and refined digital platforms designed to elevate brands through clarity, emotion, and impact.",
+      "cta": "Start a project"
+    },
+    "Purpose": {
+      "label": "Purpose-driven digital experiences",
+      "title": "In a digital world overwhelmed by noise and repetition, we believe in clarity.",
+      "span1": "In restraint.",
+      "span2": "In intentional design.",
+      "text": "At Genesis Connect, we create digital experiences where brands are not simply seen — they are felt, remembered, and understood."
+    },
+    "Philosophy": {
+      "label": "Less noise. More impact.",
+      "title": "Luxury is not about excess. It is about precision, balance, and intention.",
+      "text": "We design with restraint, focusing on what truly matters — clarity, emotion, and impact."
+    },
+    "WhatWeCraft": {
+      "title": "What we craft",
+      "text1": "We design high-end websites, immersive 3D environments, and performance-driven digital platforms built for longevity.",
+      "text2": "Our work blends design, technology, and storytelling to create digital presences that remain relevant, impactful, and timeless."
+    },
+    "Immersion": {
+      "label": "Immersion as a language",
+      "title": "Immersion is not an effect.",
+      "span": "It is a language.",
+      "text": "Through space, depth, motion, and silence, we transform interfaces into immersive experiences that engage the senses and guide attention with precision."
+    },
+    "Expertise": {
+      "label": "Our core expertise",
+      "items": {
+        "websites": {
+          "title": "Immersive Websites",
+          "desc": "High-end websites crafted as immersive digital experiences, designed to captivate and elevate premium brands."
+        },
+        "platforms": {
+          "title": "Web & App Platforms",
+          "desc": "Refined web and application platforms built for usability, performance, and seamless interaction."
+        },
+        "performance": {
+          "title": "Digital Performance & SEO",
+          "desc": "Strategic optimization focused on structure, visibility, and long-term digital performance — never aggressive, always intentional."
+        }
+      }
+    },
+    "Clients": {
+      "title": "Who we work with",
+      "text1": "We collaborate with premium brands, creative directors, founders, and institutions seeking distinction.",
+      "text2": "If you value elegance, craft, and long-term vision — we are aligned."
+    },
+    "Global": {
+      "label": "Based in France. Working worldwide.",
+      "text1": "Rooted in French design culture, Genesis Connect works internationally.",
+      "text2": "Our perspective is global. Our standards are uncompromising."
+    },
+    "Complementary": {
+      "title": "Complementary craft",
+      "items": {
+        "brand": "Brand identity",
+        "video": "Video & Motion",
+        "assets": "Visual Assets",
+        "redesign": "Digital Redesign"
+      }
+    },
+    "Gallery": {
+      "intro": "Drag to explore\n(Scroll Down)",
+      "section_title": "Selected Works",
+      "main_title": "Crafting digital legacies.",
+      "subtitle": "One pixel at a time.",
+      "description": "We partner with visionary brands to create immersive digital experiences that defy expectations and stand the test of time.",
+      "projects": {
+        "p1": { "name": "Maison Velour", "type": "E-commerce experience" },
+        "p2": { "name": "Archi.Studio", "type": "Architectural portfolio" },
+        "p3": { "name": "Lumina Tech", "type": "Corporate digital platform" },
+        "p4": { "name": "Vogue Paris", "type": "Digital campaign experience" }
+      }
+    },
+    "CTA": {
+      "label": "Let’s create something remarkable",
+      "title": "Don’t wait for the future. Create it.",
+      "text": "Every project begins with a conversation.\nLet’s transform your idea into an immersive digital experience.",
+      "button": "Start a project"
+    }
+  },
+  "ContactPage": {
+    "Hero": {
+      "title": "Start a\nProject",
+      "subtitle": "Tell us about your vision.\nWe craft immersive digital experiences with clarity, precision, and impact.",
+      "description": "Every project begins with a conversation.\nLet’s explore how we can shape your digital presence together."
+    },
+    "Collaboration": {
+      "title": "Collaboration",
+      "heading": "A Thoughtful Approach",
+      "text1": "Genesis Connect works on a project basis, with a strong focus on quality, craft, and long-term value. We collaborate on a limited number of projects each year to ensure dedication and excellence.",
+      "text2": "Each collaboration is tailored to the scope and ambition of the project, ensuring a partnership that is as meaningful as the outcome."
+    },
+    "DirectContact": {
+      "title": "Direct Contact"
+    },
+    "Location": {
+      "title": "Location",
+      "address": "29 rue Tronchet,<br/>75008 Paris",
+      "description": "Based in France. Working worldwide with visionary brands and founders."
+    },
+    "Closing": {
+      "title": "Closing Statement",
+      "text": "We value thoughtful projects, clear ambition, and long-term vision.",
+      "subtext": "If you believe in craft, elegance, and immersive digital experiences — we are aligned."
+    }
+  },
+  "ExpertisePage": {
+    "Hero": {
+      "title": "Our\nVision",
+      "subtitle": "We believe digital experiences should do more than exist.\nThey should resonate, endure, and leave a lasting impression.",
+      "description": "At Genesis Connect, our vision is rooted in clarity, restraint, and intention. We design digital environments where aesthetics and performance coexist — where technology serves emotion, and impact is built with purpose."
+    },
+    "Intro": {
+      "title": "Our Expertise",
+      "heading": "Crafting high-end digital experiences with precision and impact.",
+      "text": "Genesis Connect specializes in the creation of refined digital platforms designed for premium brands seeking distinction, depth, and long-term relevance."
+    },
+    "CoreExpertise": {
+      "title": "Core Expertise",
+      "Item1": {
+        "title": "Immersive Websites & Digital Platforms",
+        "subtitle": "High-end websites designed as immersive experiences.",
+        "description": "We combine refined design, motion, and 3D environments to create digital spaces that captivate, guide, and elevate brand perception."
+      },
+      "Item2": {
+        "title": "Web & App Experiences",
+        "subtitle": "Elegant and intuitive web and application interfaces.",
+        "description": "Built for usability, scalability, and performance. Each experience is crafted to feel seamless, fluid, and intentional across all devices."
+      },
+      "Item3": {
+        "title": "Digital Performance & SEO",
+        "subtitle": "Performance is not an afterthought — it is part of the design.",
+        "description": "We approach SEO and optimization as a long-term strategy, ensuring structure, visibility, and efficiency without compromising elegance or user experience."
+      }
+    },
+    "StrategicEvolution": {
+      "title": "Strategic Evolution",
+      "heading": "Rebranding & Digital Redesign",
+      "subtitle": "We help brands evolve their digital presence with clarity and coherence.",
+      "description": "From subtle refinements to complete redesigns, we transform existing platforms into elevated digital experiences while preserving brand essence."
+    },
+    "ComplementaryCraft": {
+      "title": "Complementary Craft",
+      "subtitle": "(Supporting the experience, never leading it)",
+      "Items": {
+        "VisualAssets": {
+          "title": "Visual Assets",
+          "description": "Carefully crafted digital assets designed to align with immersive platforms and brand universes."
+        },
+        "BrandIdentity": {
+          "title": "Brand Identity",
+          "description": "Logos and visual identities created with restraint and precision, ensuring consistency across digital and physical touchpoints."
+        },
+        "VideoMotion": {
+          "title": "Video & Motion Design",
+          "description": "Cinematic video editing and motion design used to enhance storytelling, rhythm, and atmosphere within digital experiences."
+        }
+      }
+    }
+  },
+  "StudioPage": {
+    "Hero": {
+      "title": "From Idea\nto Impact.",
+      "subtitle": "Genesis Connect is an immersive digital studio crafting high-end digital experiences for premium and luxury brands.",
+      "description": "We design refined websites, immersive 3D environments, and performance-driven digital platforms where elegance, technology, and intention converge to create lasting impact."
+    },
+    "Purpose": {
+      "title": "A Studio Driven by Purpose",
+      "heading": "In a world of fleeting trends and visual noise, we believe in clarity.",
+      "sub1": "In restraint.",
+      "sub2": "In experiences designed to endure.",
+      "text": "Every project begins with a singular idea — and evolves into a meaningful digital presence built with precision, depth, and purpose."
+    },
+    "GlobalLocation": {
+      "heading": "Based in France.\nWorking Worldwide.",
+      "text": "Rooted in French design culture, Genesis Connect collaborates internationally with luxury brands, visionary founders, creative studios, and institutions seeking distinction in their digital expression.",
+      "sub1": "Our approach is global.",
+      "sub2": "Our standards are uncompromising."
+    },
+    "Philosophy": {
+      "title": "Our Philosophy",
+      "Item1": {
+        "title": "Precision",
+        "text": "Every pixel is placed with intention.\nWe design with rigor, balance, and attention to detail, ensuring each element serves a purpose."
+      },
+      "Item2": {
+        "title": "Immersion",
+        "text": "We create immersive digital experiences through storytelling, motion, and atmosphere — allowing brands to be felt, not just seen."
+      },
+      "Item3": {
+        "title": "Performance",
+        "text": "True beauty must perform flawlessly.\nWe build platforms that are fast, structured, optimized, and designed for long-term digital performance."
+      }
+    },
+    "Commitment": {
+      "title": "Our Commitment",
+      "text": "Genesis Connect combines design excellence, advanced technology, and strategic thinking to craft digital experiences that stand the test of time.",
+      "statement1": "We don’t follow trends.",
+      "statement2": "We build digital legacies."
+    }
+  },
+  "WorkPage": {
+    "Hero": {
+      "title": "Selected<br/>Works",
+      "subtitle": "A collection of immersive digital experiences crafted with precision, emotion, and restraint.",
+      "description": "From high-end e-commerce to architectural portfolios, we partner with brands to create digital legacies that stand the test of time."
+    },
+    "Projects": {
+      "Project1": {
+        "title": "Project One",
+        "category": "Immersive website experience",
+        "industry": "Luxury digital platform",
+        "desc": "A refined digital experience designed to elevate brand presence through depth, motion, and restraint."
+      },
+      "Project2": {
+        "title": "Project Two",
+        "category": "Web & app experience",
+        "industry": "Architectural portfolio",
+        "desc": "A minimal, performance-driven platform crafted to showcase content with clarity and elegance."
+      },
+      "Project3": {
+        "title": "Project Three",
+        "category": "Corporate digital platform",
+        "industry": "Technology & innovation",
+        "desc": "A structured and immersive digital environment designed for usability, performance, and scale."
+      },
+      "Project4": {
+        "title": "Project Four",
+        "category": "Digital campaign experience",
+        "industry": "Fashion & luxury",
+        "desc": "A cinematic digital experience combining storytelling, motion, and visual precision."
+      },
+      "viewProject": "View Project",
+      "year": "Year: 2024",
+      "scope": "Scope: Full Stack"
+    },
+    "Approach": {
+      "title": "Our Approach to Work",
+      "statement1": "We don’t create volume.",
+      "statement2": "We curate experiences.",
+      "text": "Each project is developed with intention — from concept to execution — ensuring coherence, performance, and lasting relevance."
+    }
+  },
+  "LegalPage": {
+    "Hero": {
+      "title": "Legal\nInformation",
+      "description": "Legal notices and terms of use for Genesis Connect website."
+    },
+    "Articles": {
+      "Publisher": {
+        "title": "01. Site Publisher",
+        "text1": "The website <strong>Genesis Connect</strong> is published by:",
+        "text2": "<strong>Genesis Connect Studio</strong><br/>SAS with a capital of 1,000 €<br/>Headquarters: 29 rue Tronchet, 75008 Paris<br/>Registered with the Paris RCS under number 123 456 789<br/>Intracommunity VAT number: FR 12 123456789",
+        "text3": "<strong>Publication Director:</strong> Niaty Junior Tamba<br/><strong>Contact:</strong> hello@genesisconnectstudio.com<br/><strong>Phone:</strong> +33 1 23 45 67 89"
+      },
+      "Hosting": {
+        "title": "02. Hosting",
+        "text1": "The website is hosted by:",
+        "text2": "<strong>Vercel Inc.</strong><br/>340 S Lemon Ave #4133<br/>Walnut, CA 91789<br/>USA<br/><link>https://vercel.com</link>"
+      },
+      "IntellectualProperty": {
+        "title": "03. Intellectual Property",
+        "text1": "The entire content of this website is subject to French and international legislation on copyright and intellectual property. All reproduction rights are reserved, including for downloadable documents and iconographic and photographic representations.",
+        "text2": "Any representation or reproduction, in whole or in part, made without the consent of the author or their assigns or successors is unlawful (Article L 122-4 of the Intellectual Property Code)."
+      },
+      "PersonalData": {
+        "title": "04. Personal Data",
+        "text1": "In accordance with the modified Data Protection Act of January 6, 1978, and the General Data Protection Regulation (GDPR), you have the right to access, rectify, delete, and oppose personal data concerning you.",
+        "text2": "To exercise this right, you can contact us by email at: <a href=\"mailto:hello@genesisconnectstudio.com\" class=\"hover:text-[#D4AF37] transition-colors\">hello@genesisconnectstudio.com</a>",
+        "text3": "No personal information of the site user is published without the user's knowledge, exchanged, transferred, assigned, or sold on any medium to third parties."
+      },
+      "Cookies": {
+        "title": "05. Cookies",
+        "text1": "Browsing the site may cause cookie(s) to be installed on the user's computer. A cookie is a small file which does not allow the identification of the user but records information relating to the navigation of a computer on a site.",
+        "text2": "You have the option to refuse cookies by configuring your web browser."
+      }
+    }
+  },
+  "TerrainPage": {
+    "title": "Genesis Terrain",
+    "biomes": {
+      "dunes": "Biome: Dunes",
+      "rock": "Biome: Rock"
+    },
+    "completion": "Immersion Complete"
+  },
+  "Navigation": {
+    "home": "Home",
+    "work": "Work",
+    "studio": "Studio",
+    "expertise": "Expertise",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "location": "Location",
+    "based_in": "Based in France. Working worldwide.",
+    "contact": "Contact",
+    "connect": "Connect",
+    "legal": "Legal",
+    "copyright": "© 2024 Genesis Connect. All rights reserved."
+  },
+  "Transition": {
+    "loading": "Preparing the experience.",
+    "intro": "From idea to impact.",
+    "enter": "Enter",
+    "narrative": {
+      "home_about": "Discover our studio",
+      "home_work": "Explore our work",
+      "home_vision": "Understand our vision",
+      "home_contact": "Get in touch",
+      "back_home": "Return to home",
+      "default": "Loading..."
+    }
+  },
+  "Metadata": {
+    "title": "Genesis Connect | From Idea to Impact",
+    "description": "Genesis Connect is a premium digital studio specializing in immersive web experiences, high-end websites, and digital performance."
+  }
+}

@@ -1,0 +1,10 @@
+export { default as Hero } from "./Hero";
+export { default as Intro } from "./Intro";
+export { default as WhatWeCraft } from "./WhatWeCraft";
+export { default as Immersion } from "./Immersion";
+export { default as Expertise } from "./Expertise";
+export { default as Philosophy } from "./Philosophy";
+export { default as Complementary } from "./Complementary";
+export { default as Clients } from "./Clients";
+export { default as Global } from "./Global";
+export { default as CTA } from "./CTA";

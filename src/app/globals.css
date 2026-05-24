@@ -1,0 +1,170 @@
+@import "tailwindcss";
+
+:root {
+  --background: #2A1C15;
+  --foreground: #FAF9F6;
+  --primary: #2A1C15;
+  --secondary: #FAF9F6;
+  --accent: #121212;
+  --muted: #8C8681;
+  --decor-offset: 44px;
+  --content-start: 70px;
+  --content-max: 1200px;
+  --corner-safe-zone: 32px;
+  --corner-length: 15px;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+  --font-sans: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-surgena);
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                SCROLLBAR HIDE                              */
+/* -------------------------------------------------------------------------- */
+
+/* Universal Selector to catch EVERYTHING */
+* {
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* IE and Edge */
+}
+
+/* Chrome, Safari, Edge, Opera - Targeting pseudo-elements explicitly */
+*::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  background: transparent !important;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: transparent !important;
+}
+
+/* Specific HTML/Body targeting to be absolutely sure */
+html, body {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/*                                BASE STYLES                                 */
+/* -------------------------------------------------------------------------- */
+
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-surgena), Arial, Helvetica, sans-serif;
+  cursor: none; /* Hide default cursor */
+  width: 100%;
+  font-size: 14px; /* Mobile base: 14-15px */
+  line-height: 1.6;
+  letter-spacing: 0;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 15px; /* Tablet: 15-16px */
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 16px; /* Desktop: 16-17px */
+  }
+}
+
+a, button, input, textarea, [role="button"] {
+  cursor: none; /* Ensure interactive elements don't show cursor */
+}
+
+::selection {
+  background: rgba(250, 249, 246, 0.9); /* #FAF9F6 */
+  color: #2A1C15;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Vertical decorative line removed - moved to ScrollControls.tsx */
+
+.content-offset {
+  padding-left: var(--content-start);
+}
+
+.content-container {
+  max-width: var(--content-max);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --decor-offset: 32px;
+    --content-start: 70px;
+    --content-max: 1000px;
+    --corner-safe-zone: 20px;
+    --corner-length: 12px;
+  }
+  body::after {
+    display: none;
+  }
+}
+
+@media (min-width: 1280px) {
+  :root {
+    --decor-offset: 50px;
+    --content-start: 80px;
+    --content-max: 1280px;
+    --corner-safe-zone: 40px;
+    --corner-length: 20px;
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "HomePage": {
+    "title": "Accueil",
+    "description": "Bienvenue sur Genesis Connect",
+    "Hero": {
+      "title": "Genesis\nConnect",
+      "subtitle": "De l'idée à l'impact.",
+      "tagline": "Expériences numériques immersives pour marques premium.",
+      "description": "Nous concevons des sites web haut de gamme, des environnements 3D immersifs et des plateformes numériques raffinées, conçus pour élever les marques par la clarté, l'émotion et l'impact.",
+      "cta": "Démarrer un projet"
+    },
+    "Purpose": {
+      "label": "Expériences numériques axées sur le sens",
+      "title": "Dans un monde numérique saturé de bruit et de répétition, nous croyons en la clarté.",
+      "span1": "En la retenue.",
+      "span2": "En un design intentionnel.",
+      "text": "Chez Genesis Connect, nous créons des expériences numériques où les marques ne sont pas simplement vues — elles sont ressenties, mémorisées et comprises."
+    },
+    "Philosophy": {
+      "label": "Moins de bruit. Plus d'impact.",
+      "title": "Le luxe n'est pas une question d'excès. C'est une question de précision, d'équilibre et d'intention.",
+      "text": "Nous concevons avec retenue, en nous concentrant sur ce qui compte vraiment — la clarté, l'émotion et l'impact."
+    },
+    "WhatWeCraft": {
+      "title": "Ce que nous créons",
+      "text1": "Nous concevons des sites web haut de gamme, des environnements 3D immersifs et des plateformes numériques performantes, bâtis pour la longévité.",
+      "text2": "Notre travail allie design, technologie et narration pour créer des présences numériques qui restent pertinentes, impactantes et intemporelles."
+    },
+    "Immersion": {
+      "label": "L'immersion comme langage",
+      "title": "L'immersion n'est pas un effet.",
+      "span": "C'est un langage.",
+      "text": "À travers l'espace, la profondeur, le mouvement et le silence, nous transformons les interfaces en expériences immersives qui engagent les sens et guident l'attention avec précision."
+    },
+    "Expertise": {
+      "label": "Notre expertise",
+      "items": {
+        "websites": {
+          "title": "Sites Immersifs",
+          "desc": "Sites web haut de gamme conçus comme des expériences numériques immersives, pour captiver et élever les marques premium."
+        },
+        "platforms": {
+          "title": "Plateformes Web & App",
+          "desc": "Plateformes web et applicatives raffinées, construites pour l'utilisabilité, la performance et une interaction fluide."
+        },
+        "performance": {
+          "title": "Performance Digitale & SEO",
+          "desc": "Optimisation stratégique axée sur la structure, la visibilité et la performance numérique à long terme — jamais agressive, toujours intentionnelle."
+        }
+      }
+    },
+    "Clients": {
+      "title": "Avec qui nous travaillons",
+      "text1": "Nous collaborons avec des marques premium, des directeurs créatifs, des fondateurs et des institutions en quête de distinction.",
+      "text2": "Si vous valorisez l'élégance, l'artisanat et la vision à long terme — nous sommes alignés."
+    },
+    "Global": {
+      "label": "Basé en France. Opère dans le monde entier.",
+      "text1": "Ancré dans la culture du design français, Genesis Connect travaille à l'international.",
+      "text2": "Notre perspective est mondiale. Nos standards sont sans compromis."
+    },
+    "Complementary": {
+      "title": "Savoir-faire complémentaire",
+      "items": {
+        "brand": "Identité de marque",
+        "video": "Vidéo & Motion",
+        "assets": "Actifs Visuels",
+        "redesign": "Refonte Digitale"
+      }
+    },
+    "Gallery": {
+      "intro": "Glisser pour explorer\n(Défiler vers le bas)",
+      "section_title": "Travaux Sélectionnés",
+      "main_title": "Façonner des héritages numériques.",
+      "subtitle": "Un pixel à la fois.",
+      "description": "Nous nous associons à des marques visionnaires pour créer des expériences numériques immersives qui défient les attentes et résistent à l'épreuve du temps.",
+      "projects": {
+        "p1": { "name": "Maison Velour", "type": "Expérience E-commerce" },
+        "p2": { "name": "Archi.Studio", "type": "Portfolio Architectural" },
+        "p3": { "name": "Lumina Tech", "type": "Plateforme digitale Corporate" },
+        "p4": { "name": "Vogue Paris", "type": "Expérience de campagne digitale" }
+      }
+    },
+    "CTA": {
+      "label": "Créons quelque chose de remarquable",
+      "title": "N'attendez pas le futur. Créez-le.",
+      "text": "Chaque projet commence par une conversation.\nTransformons votre idée en une expérience numérique immersive.",
+      "button": "Démarrer un projet"
+    }
+  },
+  "ContactPage": {
+    "Hero": {
+      "title": "Lancer un\nProjet",
+      "subtitle": "Parlez-nous de votre vision.\nNous créons des expériences numériques immersives avec clarté, précision et impact.",
+      "description": "Chaque projet commence par une conversation.\nExplorons ensemble comment façonner votre présence numérique."
+    },
+    "Collaboration": {
+      "title": "Collaboration",
+      "heading": "Une approche réfléchie",
+      "text1": "Genesis Connect travaille par projet, avec un fort accent sur la qualité, l'artisanat et la valeur à long terme. Nous collaborons sur un nombre limité de projets chaque année pour garantir dévouement et excellence.",
+      "text2": "Chaque collaboration est adaptée à l'envergure et à l'ambition du projet, assurant un partenariat aussi significatif que le résultat."
+    },
+    "DirectContact": {
+      "title": "Contact Direct"
+    },
+    "Location": {
+      "title": "Localisation",
+      "address": "29 rue Tronchet,<br/>75008 Paris",
+      "description": "Basé en France. Travaillant dans le monde entier avec des marques et fondateurs visionnaires."
+    },
+    "Closing": {
+      "title": "Mot de la fin",
+      "text": "Nous valorisons les projets réfléchis, l'ambition claire et la vision à long terme.",
+      "subtext": "Si vous croyez en l'artisanat, l'élégance et les expériences numériques immersives — nous sommes alignés."
+    }
+  },
+  "ExpertisePage": {
+    "Hero": {
+      "title": "Notre\nVision",
+      "subtitle": "Nous croyons que les expériences numériques doivent faire plus qu'exister.\nElles doivent résonner, durer et laisser une impression durable.",
+      "description": "Chez Genesis Connect, notre vision est ancrée dans la clarté, la retenue et l'intention. Nous concevons des environnements numériques où l'esthétique et la performance coexistent — où la technologie sert l'émotion, et l'impact est construit avec un but."
+    },
+    "Intro": {
+      "title": "Notre Expertise",
+      "heading": "Créer des expériences numériques haut de gamme avec précision et impact.",
+      "text": "Genesis Connect se spécialise dans la création de plateformes numériques raffinées conçues pour les marques premium cherchant distinction, profondeur et pertinence à long terme."
+    },
+    "CoreExpertise": {
+      "title": "Expertise Fondamentale",
+      "Item1": {
+        "title": "Sites Web Immersifs & Plateformes Digitales",
+        "subtitle": "Sites web haut de gamme conçus comme des expériences immersives.",
+        "description": "Nous combinons design raffiné, mouvement et environnements 3D pour créer des espaces numériques qui captivent, guident et élèvent la perception de la marque."
+      },
+      "Item2": {
+        "title": "Expériences Web & App",
+        "subtitle": "Interfaces web et applicatives élégantes et intuitives.",
+        "description": "Construit pour l'utilisabilité, l'évolutivité et la performance. Chaque expérience est conçue pour être fluide et intentionnelle sur tous les appareils."
+      },
+      "Item3": {
+        "title": "Performance Digitale & SEO",
+        "subtitle": "La performance n'est pas une réflexion après coup — elle fait partie du design.",
+        "description": "Nous abordons le SEO et l'optimisation comme une stratégie à long terme, assurant structure, visibilité et efficacité sans compromettre l'élégance ou l'expérience utilisateur."
+      }
+    },
+    "StrategicEvolution": {
+      "title": "Évolution Stratégique",
+      "heading": "Rebranding & Refonte Digitale",
+      "subtitle": "Nous aidons les marques à faire évoluer leur présence numérique avec clarté et cohérence.",
+      "description": "De raffinements subtils à des refontes complètes, nous transformons les plateformes existantes en expériences numériques élevées tout en préservant l'essence de la marque."
+    },
+    "ComplementaryCraft": {
+      "title": "Savoir-faire Complémentaire",
+      "subtitle": "(Soutenir l'expérience, jamais la dominer)",
+      "Items": {
+        "VisualAssets": {
+          "title": "Ressources Visuelles",
+          "description": "Des ressources numériques soigneusement conçues pour s'aligner avec les plateformes immersives et les univers de marque."
+        },
+        "BrandIdentity": {
+          "title": "Identité de Marque",
+          "description": "Logos et identités visuelles créés avec retenue et précision, assurant la cohérence entre les points de contact numériques et physiques."
+        },
+        "VideoMotion": {
+          "title": "Vidéo & Motion Design",
+          "description": "Montage vidéo cinématique et motion design utilisés pour améliorer la narration, le rythme et l'atmosphère au sein des expériences numériques."
+        }
+      }
+    }
+  },
+  "StudioPage": {
+    "Hero": {
+      "title": "De l'Idée\nà l'Impact.",
+      "subtitle": "Genesis Connect est un studio numérique immersif créant des expériences numériques haut de gamme pour les marques premium et de luxe.",
+      "description": "Nous concevons des sites web raffinés, des environnements 3D immersifs et des plateformes numériques performantes où l'élégance, la technologie et l'intention convergent pour créer un impact durable."
+    },
+    "Purpose": {
+      "title": "Un Studio Guidé par le Sens",
+      "heading": "Dans un monde de tendances éphémères et de bruit visuel, nous croyons en la clarté.",
+      "sub1": "En la retenue.",
+      "sub2": "En des expériences conçues pour durer.",
+      "text": "Chaque projet commence par une idée singulière — et évolue en une présence numérique significative construite avec précision, profondeur et but."
+    },
+    "GlobalLocation": {
+      "heading": "Basé en France.\nTravaillant dans le Monde Entier.",
+      "text": "Ancré dans la culture du design français, Genesis Connect collabore à l'international avec des marques de luxe, des fondateurs visionnaires, des studios créatifs et des institutions cherchant la distinction dans leur expression numérique.",
+      "sub1": "Notre approche est globale.",
+      "sub2": "Nos standards sont sans compromis."
+    },
+    "Philosophy": {
+      "title": "Notre Philosophie",
+      "Item1": {
+        "title": "Précision",
+        "text": "Chaque pixel est placé avec intention.\nNous concevons avec rigueur, équilibre et attention aux détails, assurant que chaque élément sert un but."
+      },
+      "Item2": {
+        "title": "Immersion",
+        "text": "Nous créons des expériences numériques immersives à travers la narration, le mouvement et l'atmosphère — permettant aux marques d'être ressenties, pas juste vues."
+      },
+      "Item3": {
+        "title": "Performance",
+        "text": "La vraie beauté doit performer sans faille.\nNous construisons des plateformes rapides, structurées, optimisées et conçues pour la performance numérique à long terme."
+      }
+    },
+    "Commitment": {
+      "title": "Notre Engagement",
+      "text": "Genesis Connect combine excellence du design, technologie avancée et pensée stratégique pour créer des expériences numériques qui résistent à l'épreuve du temps.",
+      "statement1": "Nous ne suivons pas les tendances.",
+      "statement2": "Nous bâtissons des héritages numériques."
+    }
+  },
+  "WorkPage": {
+    "Hero": {
+      "title": "Travaux<br/>Sélectionnés",
+      "subtitle": "Une collection d'expériences numériques immersives conçues avec précision, émotion et retenue.",
+      "description": "Du e-commerce haut de gamme aux portfolios architecturaux, nous nous associons aux marques pour créer des héritages numériques qui résistent à l'épreuve du temps."
+    },
+    "Projects": {
+      "Project1": {
+        "title": "Projet Un",
+        "category": "Expérience site web immersif",
+        "industry": "Plateforme digitale luxe",
+        "desc": "Une expérience numérique raffinée conçue pour élever la présence de la marque par la profondeur, le mouvement et la retenue."
+      },
+      "Project2": {
+        "title": "Projet Deux",
+        "category": "Expérience Web & App",
+        "industry": "Portfolio Architectural",
+        "desc": "Une plateforme minimale axée sur la performance, conçue pour présenter le contenu avec clarté et élégance."
+      },
+      "Project3": {
+        "title": "Projet Trois",
+        "category": "Plateforme digitale corporative",
+        "industry": "Technologie & Innovation",
+        "desc": "Un environnement numérique structuré et immersif conçu pour l'utilisabilité, la performance et l'échelle."
+      },
+      "Project4": {
+        "title": "Projet Quatre",
+        "category": "Expérience de campagne digitale",
+        "industry": "Mode & Luxe",
+        "desc": "Une expérience numérique cinématographique combinant narration, mouvement et précision visuelle."
+      },
+      "viewProject": "Voir le Projet",
+      "year": "Année : 2024",
+      "scope": "Portée : Full Stack"
+    },
+    "Approach": {
+      "title": "Notre Approche du Travail",
+      "statement1": "Nous ne créons pas de volume.",
+      "statement2": "Nous curons des expériences.",
+      "text": "Chaque projet est développé avec intention — du concept à l'exécution — assurant cohérence, performance et pertinence durable."
+    }
+  },
+  "LegalPage": {
+    "Hero": {
+      "title": "Mentions\nLégales",
+      "description": "Mentions légales et conditions d'utilisation du site Genesis Connect."
+    },
+    "Articles": {
+      "Publisher": {
+        "title": "01. Éditeur du Site",
+        "text1": "Le site <strong>Genesis Connect</strong> est édité par :",
+        "text2": "<strong>Genesis Connect Studio</strong><br/>SAS au capital de 1 000 €<br/>Siège social : 29 rue Tronchet, 75008 Paris<br/>Immatriculée au RCS de Paris sous le numéro 123 456 789<br/>Numéro de TVA intracommunautaire : FR 12 123456789",
+        "text3": "<strong>Directeur de la publication :</strong> Niaty Junior Tamba<br/><strong>Contact :</strong> hello@genesisconnectstudio.com<br/><strong>Téléphone :</strong> +33 1 23 45 67 89"
+      },
+      "Hosting": {
+        "title": "02. Hébergement",
+        "text1": "Le site est hébergé par :",
+        "text2": "<strong>Vercel Inc.</strong><br/>340 S Lemon Ave #4133<br/>Walnut, CA 91789<br/>USA<br/><a href=\"https://vercel.com\" target=\"_blank\" class=\"hover:text-[#D4AF37] transition-colors\">https://vercel.com</a>"
+      },
+      "IntellectualProperty": {
+        "title": "03. Propriété Intellectuelle",
+        "text1": "L'ensemble du contenu de ce site relève de la législation française et internationale sur le droit d'auteur et la propriété intellectuelle. Tous les droits de reproduction sont réservés, y compris pour les documents téléchargeables et les représentations iconographiques et photographiques.",
+        "text2": "Toute représentation ou reproduction, intégrale ou partielle, faite sans le consentement de l'auteur ou de ses ayants droit ou ayants cause est illicite (Article L 122-4 du Code de la propriété intellectuelle)."
+      },
+      "PersonalData": {
+        "title": "04. Données Personnelles",
+        "text1": "Conformément à la loi « Informatique et Libertés » du 6 janvier 1978 modifiée et au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification, de suppression et d'opposition aux données personnelles vous concernant.",
+        "text2": "Pour exercer ce droit, vous pouvez nous contacter par email à : <link>hello@genesisconnectstudio.com</link>",
+        "text3": "Aucune information personnelle de l'utilisateur du site n'est publiée à l'insu de l'utilisateur, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers."
+      },
+      "Cookies": {
+        "title": "05. Cookies",
+        "text1": "La navigation sur le site est susceptible de provoquer l'installation de cookie(s) sur l'ordinateur de l'utilisateur. Un cookie est un fichier de petite taille, qui ne permet pas l'identification de l'utilisateur, mais qui enregistre des informations relatives à la navigation d'un ordinateur sur un site.",
+        "text2": "Vous avez la possibilité de refuser les cookies en configurant votre navigateur web."
+      }
+    }
+  },
+  "TerrainPage": {
+    "title": "Genesis Terrain",
+    "biomes": {
+      "dunes": "Biome : Dunes",
+      "rock": "Biome : Roche"
+    },
+    "completion": "Immersion Terminée"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "work": "Projets",
+    "studio": "Studio",
+    "expertise": "Expertise",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "location": "Localisation",
+    "based_in": "Basé en France. Opère dans le monde entier.",
+    "contact": "Contact",
+    "connect": "Suivez-nous",
+    "legal": "Mentions légales",
+    "copyright": "© 2024 Genesis Connect. Tous droits réservés."
+  },
+  "Transition": {
+    "loading": "Préparation de l'expérience.",
+    "intro": "De l'idée à l'impact.",
+    "enter": "Entrer",
+    "narrative": {
+      "home_about": "Découvrez notre studio",
+      "home_work": "Explorez nos projets",
+      "home_vision": "Comprendre notre vision",
+      "home_contact": "Prendre contact",
+      "back_home": "Retour à l'accueil",
+      "default": "Chargement..."
+    }
+  },
+  "Metadata": {
+    "title": "Genesis Connect | De l'idée à l'impact",
+    "description": "Genesis Connect est un studio numérique premium spécialisé dans les expériences web immersives, les sites haut de gamme et la performance numérique."
+  }
+}
