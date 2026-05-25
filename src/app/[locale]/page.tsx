@@ -295,6 +295,7 @@ export default function Home() {
               { name: t('Gallery.projects.p2.name'), type: t('Gallery.projects.p2.type'), year: "2023", color: "bg-[#253A30]" },
               { name: t('Gallery.projects.p3.name'), type: t('Gallery.projects.p3.type'), year: "2024", color: "bg-[#252A3A]" },
               { name: t('Gallery.projects.p4.name'), type: t('Gallery.projects.p4.type'), year: "2023", color: "bg-[#3A2525]" },
+              { name: t('Gallery.projects.p5.name'), type: t('Gallery.projects.p5.type'), year: "2024", color: "bg-[#2B2E36]", imageSrc: "/images/tns-website.png" },
             ].map((project, i) => (
               <div 
                 key={i} 

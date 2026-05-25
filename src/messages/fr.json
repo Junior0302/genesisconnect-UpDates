@@ -78,7 +78,8 @@
         "p1": { "name": "Maison Velour", "type": "Expérience E-commerce" },
         "p2": { "name": "Archi.Studio", "type": "Portfolio Architectural" },
         "p3": { "name": "Lumina Tech", "type": "Plateforme digitale Corporate" },
-        "p4": { "name": "Vogue Paris", "type": "Expérience de campagne digitale" }
+        "p4": { "name": "Vogue Paris", "type": "Expérience de campagne digitale" },
+        "p5": { "name": "TNS Web Site", "type": "Site web vitrine" }
       }
     },
     "CTA": {

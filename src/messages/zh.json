@@ -78,7 +78,8 @@
         "p1": { "name": "Maison Velour", "type": "电子商务体验" },
         "p2": { "name": "Archi.Studio", "type": "建筑作品集" },
         "p3": { "name": "Lumina Tech", "type": "企业数字平台" },
-        "p4": { "name": "Vogue Paris", "type": "数字营销体验" }
+        "p4": { "name": "Vogue Paris", "type": "数字营销体验" },
+        "p5": { "name": "TNS 网站", "type": "企业官网" }
       }
     },
     "CTA": {
