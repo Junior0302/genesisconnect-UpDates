@@ -7,6 +7,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useSoundContext } from "@/context/SoundContext";
 import TransitionLink from "@/components/ui/TransitionLink";
+import Image from "next/image";
 
 // Register ScrollTrigger
 if (typeof window !== "undefined") {
@@ -290,7 +291,7 @@ export default function Home() {
 
             {/* Project Cards */}
             {[
-              { name: t('Gallery.projects.p1.name'), type: t('Gallery.projects.p1.type'), year: "2024", color: "bg-[#3A2C25]" },
+              { name: t('Gallery.projects.p1.name'), type: t('Gallery.projects.p1.type'), year: "2024", color: "bg-[#3A2C25]", imageSrc: "/images/Image_rideau_effect_ink.png" },
               { name: t('Gallery.projects.p2.name'), type: t('Gallery.projects.p2.type'), year: "2023", color: "bg-[#253A30]" },
               { name: t('Gallery.projects.p3.name'), type: t('Gallery.projects.p3.type'), year: "2024", color: "bg-[#252A3A]" },
               { name: t('Gallery.projects.p4.name'), type: t('Gallery.projects.p4.type'), year: "2023", color: "bg-[#3A2525]" },
@@ -308,6 +309,17 @@ export default function Home() {
               >
                 {/* Background Placeholder (Image would go here) */}
                 <div className={`absolute inset-0 ${project.color} opacity-40 group-hover:opacity-60 transition-opacity duration-700 ease-out border border-[#FAF9F6]/10`}></div>
+
+                {project.imageSrc ? (
+                  <Image
+                    src={project.imageSrc}
+                    alt={project.name}
+                    fill
+                    priority={i === 0}
+                    sizes="(min-width: 1024px) 45vw, (min-width: 768px) 60vw, 80vw"
+                    className="object-cover opacity-70 group-hover:opacity-90 transition-all duration-700 ease-out scale-100 group-hover:scale-105"
+                  />
+                ) : null}
                 
                 {/* Content */}
                 <div className="relative z-10 flex justify-between items-start">

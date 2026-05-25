@@ -235,10 +235,16 @@
         "desc": "Un environnement numérique structuré et immersif conçu pour l'utilisabilité, la performance et l'échelle."
       },
       "Project4": {
-        "title": "NTS Web Site",
+        "title": "Projet Quatre",
+        "category": "Expérience de campagne digitale",
+        "industry": "Mode & Luxe",
+        "desc": "Une expérience numérique cinématographique combinant narration, mouvement et précision visuelle."
+      },
+      "Project5": {
+        "title": "TNS Web Site",
         "category": "Site web vitrine",
         "industry": "Entreprise / Services",
-        "desc": "Un site web clair et moderne pour présenter l’activité, inspirer confiance et convertir via une expérience fluide et performante."
+        "desc": "Un site web moderne pensé pour présenter l’activité, renforcer la crédibilité et générer des demandes via une expérience fluide et rapide."
       },
       "viewProject": "Voir le Projet",
       "year": "Année : 2024",

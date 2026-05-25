@@ -48,8 +48,16 @@ export default function WorkPage() {
       category: t('Projects.Project4.category'),
       industry: t('Projects.Project4.industry'),
       desc: t('Projects.Project4.desc'),
-      imageSrc: "/images/Image_rideau_effect_ink.png",
       color: "bg-[#3A2525]"
+    },
+    {
+      id: "05",
+      title: t('Projects.Project5.title'),
+      category: t('Projects.Project5.category'),
+      industry: t('Projects.Project5.industry'),
+      desc: t('Projects.Project5.desc'),
+      imageSrc: "/images/Image_rideau_effect_ink.png",
+      color: "bg-[#2B2E36]"
     }
   ];
 
@@ -156,7 +164,7 @@ export default function WorkPage() {
                             src={project.imageSrc}
                             alt={project.title}
                             fill
-                            priority={project.id === "04"}
+                            priority={project.id === "05"}
                             sizes="(min-width: 768px) 66vw, 100vw"
                             className="object-cover opacity-85 group-hover:opacity-95 transition-all duration-700 ease-out scale-100 group-hover:scale-105"
                           />

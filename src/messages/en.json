@@ -235,10 +235,16 @@
         "desc": "A structured and immersive digital environment designed for usability, performance, and scale."
       },
       "Project4": {
-        "title": "NTS Website",
+        "title": "Project Four",
+        "category": "Digital campaign experience",
+        "industry": "Fashion & luxury",
+        "desc": "A cinematic digital experience combining storytelling, motion, and visual precision."
+      },
+      "Project5": {
+        "title": "TNS Website",
         "category": "Company Website",
         "industry": "Business / Services",
-        "desc": "A clear, modern website designed to present the brand, build trust, and convert through a smooth, performance-focused experience."
+        "desc": "A modern website built to present the business, strengthen credibility, and convert through a smooth, fast experience."
       },
       "viewProject": "View Project",
       "year": "Year: 2024",
