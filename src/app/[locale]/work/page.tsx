@@ -56,7 +56,7 @@ export default function WorkPage() {
       category: t('Projects.Project5.category'),
       industry: t('Projects.Project5.industry'),
       desc: t('Projects.Project5.desc'),
-      imageSrc: "/images/Image_rideau_effect_ink.png",
+      imageSrc: "/images/tns-website.png",
       color: "bg-[#2B2E36]"
     }
   ];
